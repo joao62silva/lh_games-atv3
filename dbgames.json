@@ -1,0 +1,25 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "produto": "Jogo de Criança",
+      "descricao": "O melhor jogo para crianças",
+      "foto": "jogo1.PNG",
+      "preco": 150
+    },
+    {
+      "id": 2,
+      "produto": "Super Mario",
+      "descricao": "O melhor jogo do super mario super boss",
+      "foto": "jogo2.PNG",
+      "preco": 200
+    },
+    {
+      "id": 3,
+      "produto": "Jogo de Xbox One",
+      "descricao": "Todos os jogos de xbox",
+      "foto": "jogo3.PNG",
+      "preco": 400
+    }
+  ]
+}
